@@ -20,7 +20,7 @@ Sou um profissional com mais de 25 anos de experiência no mercado trabalho, atu
 
 </br>
 </br>
-
+## Contatos:
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/moretsamil" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -28,14 +28,10 @@ Sou um profissional com mais de 25 anos de experiência no mercado trabalho, atu
 <a href="https://www.linkedin.com/in/samilmoret" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<a href="https://www.instagram.com/moretsamil" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://www.linkedin.com/in/samilmoret" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-
-
-##
 <p align="center">
 <a href="https://github.com/SamilMoret">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SamilMoret&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SamilMoret&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+![Snake animation](https://github.com/SamilMoret/SamilMoret/blob/output/github-contribution-grid-snake.svg)
