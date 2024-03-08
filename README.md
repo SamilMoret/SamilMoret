@@ -34,4 +34,4 @@ Sou um profissional com mais de 25 anos de experiência no mercado trabalho, atu
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SamilMoret&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-![Snake animation](https://github.com/SamilMoret/SamilMoret/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SamilMoret/blob/output/github-contribution-grid-snake.svg)
