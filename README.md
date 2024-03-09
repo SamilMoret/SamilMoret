@@ -20,7 +20,9 @@ Sou um profissional com mais de 25 anos de experiência no mercado trabalho, atu
 
 </br>
 </br>
-## Contatos:
+
+### Contatos:
+
 <div>
 <a href="https://x.com/MoretSamil?t=psK2kWzbAafjnr5yFZePiA&s=09" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/moretsamil" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
