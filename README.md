@@ -3,6 +3,8 @@
 ## Bem vindo ao meu perfil GitHub 👋
 Sou um profissional com mais de 25 anos de experiência no mercado trabalho, atuando como Engenheiro Ambiental e Tecnólogo em Controle de Qualidade. Busco transição de carreira, com uma paixão crescente pela área de Tecnologia e com o desejo de me tornar um Desenvolvedor. Trago uma sólida base em aspectos relevantes da minha carreira, como: análise de dados, resolução de problemas complexos, sustentabilidade, gerenciamento de projetos, gestão de qualidade, regulamentações, normas, comunicação eficaz, pensamento crítico e adaptação a mudanças. Estou determinado a contribuir para aplicar o desenvolvimento de aplicativos e sistemas de software de alta qualidade.
 
+</br>
+</br>
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
