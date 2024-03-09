@@ -2,10 +2,8 @@
  Olá, me chamo Samil Moret ! 
 ## Bem vindo ao meu perfil GitHub 👋
 Sou um profissional com mais de 25 anos de experiência no mercado trabalho, atuando como Engenheiro Ambiental e Tecnólogo em Controle de Qualidade. Busco transição de carreira, com uma paixão crescente pela área de Tecnologia e com o desejo de me tornar um Desenvolvedor. Trago uma sólida base em aspectos relevantes da minha carreira, como: análise de dados, resolução de problemas complexos, sustentabilidade, gerenciamento de projetos, gestão de qualidade, regulamentações, normas, comunicação eficaz, pensamento crítico e adaptação a mudanças. Estou determinado a contribuir para aplicar o desenvolvimento de aplicativos e sistemas de software de alta qualidade.
-
 </br>
 </br>
-
 ### 🖥️ Tecnologias e Ferramentas: 
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
@@ -19,10 +17,8 @@ Sou um profissional com mais de 25 anos de experiência no mercado trabalho, atu
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title = "MONGODB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "PYTHON"/></code>
-
 </br>
 </br>
-
 ### Contatos:
 
 <div>
@@ -31,10 +27,8 @@ Sou um profissional com mais de 25 anos de experiência no mercado trabalho, atu
 <a href = "mailto: samil.moret@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/samilmoret" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
 </br>
 </br>
-
 <p align="center">
 <a href="https://github.com/SamilMoret">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SamilMoret&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
