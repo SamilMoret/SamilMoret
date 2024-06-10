@@ -16,8 +16,8 @@ jobs:
       - name: Generate Snake animation
         uses: Platane/snk@v2
         with:
-          github_user_name: SamilMoret
-          outputs: github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg
 
       - name: Commit and push the generated snake animation
         run: |
@@ -26,3 +26,5 @@ jobs:
           git add -A
           git commit -m "Generate snake animation"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
