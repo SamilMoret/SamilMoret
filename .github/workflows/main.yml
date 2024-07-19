@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,13 +11,14 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v2
         id: snake-gif
         with:
-          github_user_name: SamilMoret  
+          github_user_name: SamilMoret
           gif_out_path: dist/github-contribution-grid-snake.gif
 
-      - uses: actions/upload-artifact@v2
+      - name: Upload Snake GIF
+        uses: actions/upload-artifact@v2
         with:
           name: snake-gif
           path: dist/github-contribution-grid-snake.gif
