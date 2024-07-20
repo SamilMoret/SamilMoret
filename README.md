@@ -43,7 +43,8 @@ Sou um profissional com mais de 25 anos de experiência no mercado trabalho, atu
 </a>
 </div>
 
-[![Generate Snake](https://github.com/SamilMoret/SamilMoret/actions/workflows/main.yml/badge.svg)](https://github.com/SamilMoret/SamilMoret/actions/workflows/main.yml)
+
+![snake gif](https://github.com/githubusername/githubusername/blob/output/github-contribution-grid-snake.gif)
 
 
 
